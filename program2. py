@@ -1,0 +1,24 @@
+x=int(input("ENTRE YOUR MARKS")
+
+if(x>90):
+  print("CONGRATULATION YOU GOT A+")
+
+elif(x>=80)&(x<90):
+    print("CONGRATULATION YOU GOT A")
+
+elif(x>=70)&(x<80):
+    print("CONGRATULATION YOU GOT B+")
+    
+elif(x>=60)&(x<70):
+    print("CONGRATULATION YOU GOT B") 
+
+elif(x>=50)&(x<60):
+    print("CONGRATULATION YOU GOT C+") 
+
+elif(x>=45)&(x<50):
+    print("CONGRATULATION YOU GOT D")
+    
+else:
+    print("BETTER LUCK NEXT TIME")
+    
+   
