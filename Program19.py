@@ -1,0 +1,4 @@
+print("ENTRE TEMPERATURE IN FAHRENHEIT:")
+f=float(input())
+c=(f-32)/1.8
+print("EQUIVALENT TEMPERATURE IN CELSIUS:",c)
